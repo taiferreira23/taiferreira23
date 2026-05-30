@@ -1,0 +1,79 @@
+
+# Desafio Codeforces — Mentoria Codificadas | Além do Código
+ 
+## Sobre este repositório
+ 
+Este repositório contém minha resolução para o desafio de programação proposto na mentoria, utilizando problemas da plataforma [Codeforces](https://codeforces.com/) com auxílio de Inteligência Artificial.
+ 
+---
+ 
+## Problemas escolhidos
+ 
+| # | Nome do problema | Link | Dificuldade |
+|---|-----------------|------|-------------|
+| 1 |A. Watermelon | [Ver no Codeforces]( -https://codeforces.com/problemset/problem/4/A?utm_source=chatgpt.com) | 800 |
+
+ 
+ 
+ 
+### O que o problema pede?
+<!-- Explique com suas próprias palavras o que o problema pede. Não copie o enunciado. -->
+ Esse problema pede que eu divida o peso da melancia. Em um numero par e dizer se eles vão conseguir fazer a divisão.
+
+ 
+### Como eu resolvi?
+<!-- Descreva a estratégia que você usou. Por exemplo: ordenei a lista, filtrei os negativos, etc. -->
+ A estratégia desse problema é observar uma propriedade matemática; 
+A soma de dois números pares sempre resulta em um número par.
+Portanto, para dividir a melancia em duas partes pares, o peso total w precisa ser par.
+Porém, existe uma exceção: quando w = 2.
+
+ 
+### Código
+```python
+# Cole seu código aqui
+```
+ 
+---
+ 
+## Problema 2 — [Nome do Problema]
+ 
+### O que o problema pede?
+ 
+ 
+### Como eu resolvi?
+ 
+ 
+### Código
+```python
+# Cole seu código aqui
+```
+w = int(input())
+
+if w % 2 == 0 and w > 2:
+    print("YES")
+else:
+    print("NO")
+ 
+## IA utilizada
+ 
+**Qual IA você usou?**
+<!-- CHATGPT -->
+ 
+**Como a IA te ajudou?**
+<!-- A IA me mostrou as setenças que eu estava com duvida em usar-->
+ 
+## Reflexão
+ 
+### Dificuldades encontradas
+<!-- O que foi mais difícil? Entender o problema? Escrever o código? Usar o GitHub? -->
+ Acho que as maiores dificuldades é decidir quais as sentenças são melhores no codigo pra resolver o enunciado.
+O que você aprendeu com o desafio
+Como foi a experiência geral 
+A minha maior dificuldade foi com o GIT.   
+
+### O que aprendi
+<!-- O que você aprendeu de novo com este desafio? Pode ser sobre programação, sobre usar IA, ou qualquer coisa. -->
+Aprendi a resolver alguns exercícios matemáticos com Python
+### Como foi a experiência?
+<!-- Acho que a maior parte da minha dificuldade foi com GitHub-->
